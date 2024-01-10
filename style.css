@@ -1,0 +1,47 @@
+body {
+}
+
+h1 {
+color: rgb(71, 179, 13);
+}
+
+h2 {
+    color: blueviolet;
+}
+
+h3 {
+    color: rgb(207, 8, 168)
+}
+
+.esimerkki {
+    color: rgb(22, 169, 120);
+}
+
+.esimerkki-box {
+    background-color: rgb(167, 89, 240);
+    border: 1px solid;
+    padding: 5px;
+}
+
+td {
+    color: black;
+}
+
+.jsharkkatyyli {
+    display: none;
+}
+
+table {
+    width: 300px;
+    border-collapse: collapse;
+}
+
+table tr td {
+    border: solid black 1px;
+    padding-left: 5px;
+    margin: 0px;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: fuchsia;
+}
